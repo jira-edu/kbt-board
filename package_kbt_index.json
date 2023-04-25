@@ -9,12 +9,11 @@
         {
           "name": "KBT Board",
           "architecture": "avr",
-          "version": "0.1.0",
-          "category": "Arduino",
-          "url": "https://github.com/jira-edu/kbt-board/blob/main/kbt-0.1.0.zip?raw=true",
-          "archiveFileName": "kbt-0.1.0.zip",
-          "checksum": "SHA-256:AEC8725D32BDC8146150D818D678DEAF8A39441959707A7BDF70EBF8DA1BCF82",
-          "size": "8950767",
+          "version": "0.1.1",
+          "url": "https://github.com/jira-edu/kbt-board/blob/main/kbt-0.1.1.zip?raw=true",
+          "archiveFileName": "kbt-0.1.1.zip",
+          "checksum": "SHA-256:1DD029F4A32D7EB5A4B5900F65834AD5738E4936B795383DE84C40DF8B6E1B1B",
+          "size": "8951559",
           "boards": [
             {
               "name": "KBT Board"
