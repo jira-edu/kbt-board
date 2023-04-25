@@ -3,14 +3,13 @@
     {
       "name": "kbt",
       "maintainer": "kbt Devs",
-      "websiteUrl": "https://github.com/jira-edu/kbt-board",
+      "websiteURL": "https://github.com/jira-edu/kbt-board",
       "email": "jirapong.edu@gmail.com",
       "platforms": [
         {
           "name": "KBT Board",
           "architecture": "avr",
           "version": "1.8.6.0",
-          "deprecated": false,
           "category": "Arduino",
           "url": "https://github.com/jira-edu/kbt-board/blob/main/kbt-1.8.6.0.zip?raw=true",
           "archiveFileName": "kbt-1.8.6.0.zip",
